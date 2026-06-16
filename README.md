@@ -87,10 +87,9 @@ Passo a Passo Detalhado:
 4. O teste de objetivo é satisfeito em Bucareste e o algoritmo termina com sucesso.
 ```
   
-```
+
 Caminho Final Retornado:
-Arad -> Sibiu -> Fagaras -> Bucharest
-```
+```Arad -> Sibiu -> Fagaras -> Bucharest```
 
 
 
