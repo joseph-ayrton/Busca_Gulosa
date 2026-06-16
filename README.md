@@ -41,20 +41,11 @@ Arad -> Sibiu -> Fagaras -> Bucharest -> Urziceni -> Hirsova
 
 
 📊 Propriedades do Algoritmo
-Propriedade
-Classificação
-Explicação
-Completo?
-Sim (com controlo de visitados)
-O uso do conjunto visitados impede loops infinitos em grafos finitos.
-Ótimo?
-❌ Não
-Ignora a distância real acumulada das estradas, podendo escolher caminhos mais longos no total.
-Complexidade de Tempo
-O(b^m)
-No pior caso, pode explorar caminhos desnecessários se a heurística for imprecisa.
-Complexidade de Espaço
-O(b^m)
-Mantém todos os nós gerados na memória dentro da fronteira.
+| Propriedade | Classificação | Explicação |
+|-------------|---------------|------------|
+| Completo? | Sim (com controle de Visitas | O uso do conjunto visitados impede loops infinitos em grafos finitos. |
+| Ótimo? | ❌ Não | Ignora a distância real acumulada das estradas, podendo escolher caminhos mais longos no total. |
+| Complexidade de Tempo | O(b^m) | No pior caso, pode explorar caminhos desnecessários se a heurística for imprecisa. |
+| Complexidade de Espaço | O(b^m) | Mantém todos os nós gerados na memória dentro da fronteira. | 
 
 
